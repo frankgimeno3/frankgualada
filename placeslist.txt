@@ -1,0 +1,60 @@
+Woods store
+Building Materials Shop
+Building Materials Warehouse
+Glassworks
+Blacksmith
+Tools Shop
+Leather and metals warehouse
+Belts and leather
+Shoemaker
+Hat shop
+Dresses shop
+Binocles and glasses shop
+General Foods store
+Fresh Foods store
+Dry Foods warehouse
+Drinks and licuors store
+Cheese store
+Bakery
+Handymens Office
+Horse Vet
+Barbers shop
+Dentist
+Tailor
+Agriculture tools Shop
+Furniture Shop
+Luxury items Shop
+Jewelry
+Perfumes Shop
+Agriculture tools Shop
+Plants and flowers shop
+Horse saddles shop
+Armory shop
+Carriages and transportation shop
+Textile Factory 1
+Textile Factory 2
+Textile Factory 3
+Bars and Taverns
+Restaurants
+Great Hostel
+Theater
+Church
+Academy
+Public School
+Arts School
+Orphanage
+City Hall
+Courts of justice
+Prison
+Hospital
+Nursing Home
+Lawyers and burocrats office
+Stables
+Dog Pound
+City Mantainance Facilities
+Fire Fighters
+City Guards Office
+Graveyard
+Tanatorium
+Graveyard Chappel
+Coffins Shop
